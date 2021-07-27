@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div{
+    background-color: white;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div_div{
+    font-size: 18px;
+    
+}
+
+.result_para_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    line-height: 3;
+}
+
+canvas{
+    border: gray 5px solid;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 100px;
+}
